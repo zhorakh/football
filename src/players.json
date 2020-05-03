@@ -1,0 +1,462 @@
+{
+    "players" : [  
+        {
+            "Russia": [
+                {
+                    "id": 1,
+                    "name": "Russia Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Russia Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Russia Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Russia Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Russia Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Russia Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Russia Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Russia Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Russia Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Russia Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Russia Player 11",
+                    "age": 23
+                }
+            ],
+            "Uruguay": [
+                {
+                    "id": 1,
+                    "name": "Uruguay Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Uruguay Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Uruguay Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Uruguay Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Uruguay Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Uruguay Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Uruguay Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Uruguay Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Uruguay Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Uruguay Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Uruguay Player 11",
+                    "age": 23
+                }
+            ],
+            "France": [
+                {
+                    "id": 1,
+                    "name": "France Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "France Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "France Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "France Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "France Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "France Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "France Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "France Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "France Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "France Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "France Player 11",
+                    "age": 23
+                }
+            ],
+            "Croatia": [
+                {
+                    "id": 1,
+                    "name": "Croatia Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Croatia Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Croatia Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Croatia Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Croatia Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Croatia Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Croatia Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Croatia Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Croatia Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Croatia Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Croatia Player 11",
+                    "age": 23
+                }
+            ],
+            "Brazil": [
+                {
+                    "id": 1,
+                    "name": "Brazil Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Brazil Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Brazil Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Brazil Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Brazil Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Brazil Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Brazil Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Brazil Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Brazil Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Brazil Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Brazil Player 11",
+                    "age": 23
+                }
+            ],
+            "Sweden": [
+                {
+                    "id": 1,
+                    "name": "Sweden Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Sweden Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Sweden Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Sweden Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Sweden Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Sweden Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Sweden Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Sweden Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Sweden Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Sweden Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Sweden Player 11",
+                    "age": 23
+                }
+            ],
+            "Belgium": [
+                {
+                    "id": 1,
+                    "name": "Belgium Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Belgium Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "Belgium Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "Belgium Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "Belgium Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Belgium Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "Belgium Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "Belgium Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "Belgium Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "Belgium Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "Belgium Player 11",
+                    "age": 23
+                }
+            ],
+            "England": [
+                {
+                    "id": 1,
+                    "name": "England Player 1",
+                    "age": 25
+                },
+                {
+                    "id": 2,
+                    "name": "England Player 2",
+                    "age": 19
+                },
+                {
+                    "id": 3,
+                    "name": "England Player 3",
+                    "age": 20
+                },
+                {
+                    "id": 4,
+                    "name": "England Player 4",
+                    "age": 28
+                },
+                {
+                    "id": 5,
+                    "name": "England Player 5",
+                    "age": 25
+                },
+                {
+                    "id": 6,
+                    "name": "Player 6",
+                    "age": 26
+                },
+                {
+                    "id": 7,
+                    "name": "England Player 7",
+                    "age": 30
+                },
+                {
+                    "id": 8,
+                    "name": "England Player 8",
+                    "age": 31
+                },
+                {
+                    "id": 9,
+                    "name": "England Player 9",
+                    "age": 21
+                },
+                {
+                    "id": 10,
+                    "name": "England Player 10",
+                    "age": 27
+                },
+                {
+                    "id": 11,
+                    "name": "England Player 11",
+                    "age": 23
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.team-name {
+    font-size: 22px;
+    vertical-align: middle;
+}
+.team-name:hover {
+    cursor: pointer;
+}
+.flag {
+    vertical-align: middle;
+    width: 70px;
+}
+span:hover {
+    cursor: pointer;
+}
